@@ -10,3 +10,4 @@ C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launche
 C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Release\Hamachi Launcher.csproj.GenerateResource.Cache
 C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Release\Hamachi Launcher.exe
 C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Release\Hamachi Launcher.pdb
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Release\Hamachi Launcher.csprojResolveAssemblyReference.cache
