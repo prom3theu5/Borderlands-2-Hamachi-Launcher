@@ -1,0 +1,13 @@
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\bin\Debug\Hamachi Launcher.exe
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\bin\Debug\Hamachi Launcher.pdb
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\Hamachi Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\MainWindow.baml
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\App.g.cs
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\Hamachi Launcher_MarkupCompile.cache
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\Hamachi Launcher.g.resources
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\Hamachi_Launcher.Properties.Resources.resources
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\Hamachi Launcher.csproj.GenerateResource.Cache
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\Hamachi Launcher.exe
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\obj\Debug\Hamachi Launcher.pdb
+C:\Users\Prometheus\Dropbox\MyStuff\Borderlands\Hamachi Launcher\Hamachi Launcher\bin\Debug\Hamachi Launcher.exe.config
